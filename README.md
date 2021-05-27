@@ -11,8 +11,10 @@ required to provide a website prototype using the AWS cloud environment to a cli
 1. OS: Amazon Linux 2
 2. Webserver: Apache
 
+> This website will utilize formspree.io to make form submission works on a client side
+![Creative Agency](./images/StaticSiteForm1.png 'Creative Agency')
+br
 > The Final product Deployed with EC2 instance
-
 ![Creative Agency](./images/CreativeAgencyPic1.png 'Creative Agency')
 
 > Making it secure with ssl/tls
@@ -127,13 +129,10 @@ yum install stress -y
 
 
 ## 3. Preferred way with AWS Amplify
-> Initialize Github Repo
-```bash
-echo "# dfd4043-CloudComputingPart-1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:zyzyx03/dfd4043-CloudComputingPart-1.git
-git push -u origin main
-```
+
+> Hosting A static site with AWS Amplify
+![Creative Agency](./images/AwsAmplify1.png 'Creative Agency')
+
+> Download free html5 template
+
+[Free HTML 5 template]("https://html5up.net")
