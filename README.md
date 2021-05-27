@@ -13,7 +13,9 @@ required to provide a website prototype using the AWS cloud environment to a cli
 
 > This website will utilize formspree.io to make form submission works on a client side
 ![Creative Agency](./images/StaticSiteForm1.png 'Creative Agency')
-br
+
+</br>
+
 > The Final product Deployed with EC2 instance
 ![Creative Agency](./images/CreativeAgencyPic1.png 'Creative Agency')
 
